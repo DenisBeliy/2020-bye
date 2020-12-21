@@ -12,6 +12,7 @@ namespace Lesson14
         {
             Console.WriteLine("Hello! Это новый файл созданный не программой.");
             Console.WriteLine("Программа тест");
+            Console.WriteLine("Программа тест");
         } 
     }
 }
