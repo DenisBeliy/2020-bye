@@ -11,6 +11,7 @@ namespace Lesson14
       public  static void CW()
         {
             Console.WriteLine("Hello! Это новый файл созданный не программой.");
+            Console.WriteLine("Программа тест");
         } 
     }
 }
